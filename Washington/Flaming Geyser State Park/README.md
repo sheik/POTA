@@ -9,6 +9,11 @@ Good activities for this site:
 * Fox Hunts
 
 ## Map
+There are a few parking spots at the following location, with a few picnic tables
+near by for operating.
+
+http://maps.google.com/maps?q=47.274694,-122.031676
+
 ![map](map.png)
 
 
